@@ -8,7 +8,6 @@ var totalBatteries = batteryBatches.reduce(function(total, currentValue) {
 }, 0);
 
 
-
 //monologue:
 
 const monologueLines = [
